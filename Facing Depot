@@ -154,6 +154,4 @@ public class Auto_Facing_Depot_14174 extends LinearOpMode{
         back_right.setPower(0);
         front_right.setPower(0);
     }
-
-
 }
